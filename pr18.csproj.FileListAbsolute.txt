@@ -1,0 +1,11 @@
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.csproj.AssemblyReference.cache
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.Form1.resources
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.Properties.Resources.resources
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.csproj.GenerateResource.cache
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\bin\Debug\pr18.exe.config
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\bin\Debug\pr18.exe
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\bin\Debug\pr18.pdb
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.exe
+C:\Users\Angelina\OneDrive\Документы\2 курс натк\оап\pr18\pr18\obj\Debug\pr18.pdb
